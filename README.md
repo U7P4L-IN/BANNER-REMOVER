@@ -1,8 +1,4 @@
-
-🌺Welcome🌺
---------|
-![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
-
+<p align="center"><img src="https://github.com/U7P4L-IN/BANNER-REMOVER/blob/main/Image/BANNER_REMOVER.png">
 
 
 AUTHOR:
@@ -35,6 +31,8 @@ U7P4L IN
 
  bash remove.sh
 ```
+<p align="center"><img src="https://github.com/U7P4L-IN/BANNER-REMOVER/blob/main/Image/carbon%20(1).png">
+
 #### Screenshots:
 
 <p align="center"><img src="https://github.com/U7P4L-IN/BANNER-REMOVER/blob/main/Image/Screenshot_2023-07-18-15-08-58-915_com.termux-01.jpeg">
