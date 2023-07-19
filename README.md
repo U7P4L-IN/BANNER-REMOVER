@@ -37,7 +37,7 @@ U7P4L IN
 ```
 #### Screenshots:
 
-<p align="center"><img src="https://github.com/U7P4L-IN/BANNER-REMOVER/blob/main/Image/IMG_20230718_184651.jpg">
+<p align="center"><img src="https://github.com/U7P4L-IN/BANNER-REMOVER/blob/main/Image/Screenshot_2023-07-18-15-08-58-915_com.termux-01.jpeg">
 
 
 #### Tools Languages :
