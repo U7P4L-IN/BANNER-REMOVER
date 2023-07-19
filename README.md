@@ -37,7 +37,7 @@ U7P4L IN
 ```
 #### Screenshots:
 
-<p align="center"><img src="demo">
+<p align="center"><img src="https://github.com/U7P4L-IN/BANNER-REMOVER/blob/main/Image/IMG_20230718_184651.jpg">
 
 
 #### Tools Languages :
